@@ -32,4 +32,4 @@ while len(guessed_state) < 50:
         state_y = int(state1.y)
         state_loc.penup()
         state_loc.goto(state_x, state_y)
-        state_loc.write(answer_state, align="center", font=("Courier", 10, "normal"))
+        state_loc.write(answer_state, align="center", font=("Courier", 11, "normal"))
