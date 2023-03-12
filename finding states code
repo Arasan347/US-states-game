@@ -1,6 +1,7 @@
 import turtle
 import pandas
 
+#creating a screen and map for game
 screen = turtle.Screen()
 screen.title("u.s. states game")
 image = "states.gif"
